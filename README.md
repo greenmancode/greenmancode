@@ -1,4 +1,4 @@
-Hi there, I'm Greenman! I'm a 17 y/o self taught developer in many areas including website development (full stack), software development, and little bit of game development.
+Hi there, I'm Greenman! I'm a 17 y/o self-taught developer in many areas including website development (full stack), software development, and little bit of game development.
 
 - 🔭 I’m currently working on projects to improve my GitHub portfolio
 - 🌱 I’m currently learning C++
