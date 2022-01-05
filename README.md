@@ -1,4 +1,4 @@
-Hi there, I'm Greenman! I'm a 18 y/o self-taught developer in many areas including website development (full stack), software development, and little bit of game development.
+Hi there, I'm Greenman! I'm an 18 y/o self-taught developer in many areas including website development (full stack), software development, and little bit of game development.
 
 - 🔭 I’m currently working on projects to improve my GitHub portfolio
 - 🌱 I’m currently learning x86 Assembly
@@ -16,5 +16,7 @@ Languages I Know:
 - Java
 - C#
 - C++
+
+Keep in mind that just because I listed a language doesn't mean I have a mastery of it or understand all of the popular libraries related to it.
 
 ![Greenman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greenmancode&show_icons=true&theme=vue-dark&hide_border=true) 
