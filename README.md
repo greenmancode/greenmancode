@@ -5,18 +5,6 @@ Hi there, I'm Greenman! I'm an 18 y/o self-taught developer in many areas includ
 - 👯 I’m looking to collaborate on any projects
 - 💬 Ask me about anything [here](https://github.com/greenmancode/greenmancode/issues) or on <a href="https://greenman.gq/discord/">Discord</a>
 
-Languages I Know:
-
-- HTML/CSS
-- JavaScript
-- PHP
-- Lua
-- Python 
-- TypeScript
-- Java
-- C#
-- C++
-
-Keep in mind that just because I listed a language doesn't mean I have a mastery of it or understand all of the popular libraries related to it.
+I primarily develop full stack websites, desktop applications, and scripts.
 
 ![Greenman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greenmancode&show_icons=true&theme=vue-dark&hide_border=true) 
