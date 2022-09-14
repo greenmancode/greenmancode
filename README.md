@@ -1,7 +1,7 @@
 Hi there, I'm Greenman! I'm an 18 y/o self-taught developer in many areas including website development (full stack), software development, and little bit of game development.
 
 - 🔭 I’m currently working on projects to improve my GitHub portfolio
-- 🌱 I’m currently learning x86 Assembly
+- 🎓 I’m also studying Computer Science in college
 - 👯 I’m looking to collaborate on any projects
 - 💬 Ask me about anything [here](https://github.com/greenmancode/greenmancode/issues) or on <a href="https://greenman.ga/discord/">Discord</a>
 
